@@ -1,7 +1,7 @@
 import numpy as np
 from numpy import random
 import matplotlib.pyplot as plt
-import seaborn
+import seaborn as sns
 
 #print(random.normal(size=100))
 
